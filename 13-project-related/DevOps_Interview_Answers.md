@@ -5,7 +5,7 @@ This document provides answers and implementations for common DevOps interview t
 
 ---
 
-## 1. Terraform Module: Multi-Tier Application Infrastructure in Azure
+## 1. Design and implement a Terraform module for a multi-tier application infrastructure with proper state management
 
 ### 🔧 Requirements
 
@@ -90,7 +90,7 @@ module "multi_tier" {
 
 ---
 
-## 2. Shell Script: Log Rotation, Cleanup, and Notification
+## 2. Write a shell script to automate log rotation and system cleanup with error handling and notifications
 
 ```bash
 #!/bin/bash
@@ -123,7 +123,7 @@ fi
 
 ---
 
-## 3. Python Script: AWS CloudWatch Metrics Analysis and Visualization
+## 3. Create a Python script for parsing and analyzing AWS CloudWatch metrics with data visualization
 
 ### 📦 Dependencies
 
