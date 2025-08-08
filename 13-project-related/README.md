@@ -1,6 +1,8 @@
 We are actively working on updating the notes for this section.
 
 Question - What branching strategy do you follow, and how do you handle merges to avoid breaking the release branch? If a bug appears in production, what’s your approach to resolving it?
+
+
 Answer -
 **1. Branching Strategy**
 I generally follow a GitFlow or a trunk-based with release branch strategy, depending on the team’s needs:
